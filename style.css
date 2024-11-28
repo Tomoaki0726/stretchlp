@@ -1,0 +1,80 @@
+/* 全体のスタイル設定 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+}
+
+/* ヘッダー */
+header {
+    background-color: #0055a4;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* メインコンテンツのセクション */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* 各セクション */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* セクション内のリスト */
+section ul, section ol {
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+/* CTA（Call To Action）セクション */
+.cta {
+    text-align: center;
+    background-color: #eef5ff;
+    border: 1px solid #0055a4;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.cta a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #0055a4;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.cta a:hover {
+    background-color: #003a70;
+}
+
+/* フッター */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
