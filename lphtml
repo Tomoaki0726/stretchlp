@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="初回限定価格で、プロのストレッチを体験してみませんか？Dr.stretch独自の技術で肩こり・腰痛改善。">
+    <title>Dr.stretch | 初回限定価格のストレッチ体験</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0055a4;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        .cta {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        .cta a {
+            text-decoration: none;
+            background-color: #0055a4;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr.stretch</h1>
+        <p>プロのパーソナルストレッチで体の悩みを改善</p>
+    </header>
+    <main>
+        <section>
+            <h2>初回限定価格 60分 3,300円（税込）</h2>
+            <p>Dr.stretchの独自技術「コアバランスストレッチ」で、肩こりや腰痛の改善、疲労回復を目指します。</p>
+            <ul>
+                <li>深層筋にアプローチ</li>
+                <li>全身をほぐして柔軟性アップ</li>
+                <li>ストレス緩和とリラクゼーション</li>
+            </ul>
+        </section>
+        <section>
+            <h2>体験の流れ</h2>
+            <ol>
+                <li>予約（オンラインまたは電話）</li>
+                <li>カウンセリングと体の状態チェック</li>
+                <li>ストレッチ体験（全身または特定部位）</li>
+                <li>アフターアドバイス</li>
+            </ol>
+        </section>
+        <section class="cta">
+            <h2>今すぐ予約</h2>
+            <p>手ぶらで来店OK！ウェア無料レンタル。</p>
+            <a href="https://doctorstretch.com/reserve" target="_blank">予約はこちら</a>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Dr.stretch. All rights reserved.</p>
+        <p><a href="https://doctorstretch.com" target="_blank" style="color: #fff;">公式サイト</a></p>
+    </footer>
+</body>
+</html>
